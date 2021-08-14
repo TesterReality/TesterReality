@@ -1,8 +1,8 @@
 <img src="https://thumb.cloud.mail.ru/weblink/thumb/xw1/F34S/JsaQUgjAX/logo_git.png" width="100%"/>
 
-##I'm a beginner Java developer.
+## I'm a beginner Java developer.
 
-###A few facts about me:
+### A few facts about me:
 
 - 🤔 I am fond of TRIZ.
 - ✍ Learning calligraphy
