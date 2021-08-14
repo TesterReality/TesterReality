@@ -1,5 +1,6 @@
-<img src="src/logo_git.jpg" width="100%"/>
-
+<p align="center">
+  <img src="src/logo_git.jpg" alt="TesterReality"/>
+</p>
 ## I'm a beginner Java developer.
 
 ### A few facts about me:
