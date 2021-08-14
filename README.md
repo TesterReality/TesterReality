@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="src/logo_git.jpg" alt="TesterReality"/>
+  <img src="src/Title.jpg" alt="TesterReality"/>
 </p>
 ## I'm a beginner Java developer.
 
