@@ -1,4 +1,4 @@
-<img src="src/logo_git.png" width="100%"/>
+<img src="src/logo_git.jpg" width="100%"/>
 
 ## I'm a beginner Java developer.
 
