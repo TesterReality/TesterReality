@@ -1,7 +1,8 @@
 <p align="center">
   <img src="src/Title.jpg" alt="TesterReality"/>
 </p>
-## I'm a beginner Java developer.
+
+# I'm a beginner Java developer.
 
 ### A few facts about me:
 
