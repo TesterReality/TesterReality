@@ -1,4 +1,4 @@
-<img src="https://thumb.cloud.mail.ru/weblink/thumb/xw1/F34S/JsaQUgjAX/logo_git.png" width="100%"/>
+<img src="src/logo_git.png" width="100%"/>
 
 ## I'm a beginner Java developer.
 
@@ -23,6 +23,7 @@
 
 I graduated with a master's degree in software engineering. During my studies I encountered many other technologies and programming languages.
 
+### Some statistics:
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TesterReality&show_icons=true&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
 
 
